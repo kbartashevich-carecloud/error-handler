@@ -1,0 +1,11 @@
+{
+  "name": "@carecloud/exceptional",
+  "version": "0.1.0",
+  "description": "CareCloud Node Package for custom error composition",
+  "repository": "carecloud/exceptional",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
